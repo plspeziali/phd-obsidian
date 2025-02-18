@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3247932a5a8f771b",
+        "id": "e6bd0ff88909ed4f",
         "type": "tabs",
         "children": [
           {
-            "id": "de0ed527cb92709a",
+            "id": "0f14043544786c85",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 - Templates/Full Note.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Full Note"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5 - Templates/Full Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Full Note"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5 - Templates/Full Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Full Note"
+              "title": "Outgoing links"
             }
           },
           {
@@ -142,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5 - Templates/Full Note.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Full Note"
+              "title": "Outline"
             }
           },
           {
@@ -176,27 +169,38 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "copilot:Open Copilot Chat": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "de0ed527cb92709a",
+  "active": "7c8cc5f60f99e676",
   "lastOpenFiles": [
+    "6 - Main Notes/{{c.name}}.md",
+    "2 - Source Material/Papers/xiaoLLMHumanLoop2024.md",
+    "2 - Source Material/Papers/yamagataRelativelyRationalLearning.md",
+    "6 - Main Notes/4.md",
+    "4 - Indexes/Deliverable.md",
+    "5 - Templates/paper_note.md",
+    "6 - Main Notes/A star.md",
+    "6 - Main Notes/Sequential Decision Making.md",
     "6 - Main Notes/Inverse Reinforcement Learning.md",
+    "5 - Templates/Full Note.md",
+    "3 - Tags/path planning.md",
+    "3 - Tags/reinforcement learning.md",
+    "PhD/01-Projects/Deliverable/Deliverable.md",
+    "PhD/01-Projects/{{c.name}}/{{c.name}}.md",
+    "PhD/01-Projects/{{c.name}}",
+    "PhD/01-Projects/Deliverable",
+    "PhD/01-Projects",
+    "PhD",
+    "2 - Source Material/Papers/10.5555/645529.657801.md",
+    "2 - Source Material/Papers/10.5555",
+    "2. Source Material/Papers",
+    "2. Source Material",
+    "2 - Source Material/Papers/Assets",
     "3 - Tags/artificial intelligence.md",
     "3 - Tags/usertoai.md",
-    "3 - Tags/reinforcement learning.md",
-    "5 - Templates/Full Note.md",
     "6 - Main Notes",
     "5 - Templates",
-    "4 - Indexes",
-    "2 - Source Material/Videos",
-    "2 - Source Material/Books",
-    "2 - Source Material/Papers",
-    "3 - Tags",
-    "2 - Source Material/Articles",
-    "2 - Source Material",
-    "1 - Rough Notes",
     "Welcome.md",
     "Untitled.canvas"
   ]
