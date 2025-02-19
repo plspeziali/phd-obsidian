@@ -20,6 +20,8 @@ While A\* excels in single-agent scenarios, its effectiveness diminishes in mult
 
 [[Dijkstra's algorithm]] can be viewed as a special case of A\* where , making it an uninformed search method that doesn't utilize problem-specific information.
 
+
+---
 ## References
 
 [^1]: Russell, S. J., & Norvig, P. (2010). _Artificial Intelligence: a Modern Approach_ (3rd ed., pp. 92–99). Pearson.

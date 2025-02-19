@@ -1,34 +1,12 @@
 ---
-%% cssclass: research-note %%
-
-
-title: "Relatively Rational:Learning Utilities and Rationalities Jointly from Pairwise Preferences"
-
-
-type: "paper-note"
-
-
-
-paper type: "journalArticle"
-
-author: "Yamagata, Taku; Oberkofler, Tobias; Kaufmann, Timo; Bengs, Viktor; Hüllermeier, Eyke; Santos-Rodríguez, Raúl"
-
-
-abstract: "Learning utilities from preference feedback has become increasingly important, particularly in fine-tuning language models such as ChatGPT. Traditional methods often assume equal rationality among labellers, leading to inaccurate utility estimates. We propose an algorithm that jointly estimates trainer rationality and item utilities to enhance utility learning and gain additional insights from feedback. Our approach focuses on settings where feedback is received from multiple trainers, using the Boltzmann-rational model to relate choices to latent utilities while accounting for varying levels of rationality. Given shared utilities, our method identifies rationality ratios among trainers from observed choices without extra calibration data or assumptions. We analyse the theoretical impact of assuming equal rationality on utility accuracy and empirically show superior performance in an action-advice setting, where agents construct policies using the learned utilities as rewards. By accurately modelling trainer rationality, we can enhance high-quality feedback collection, potentially leading to better-aligned models and an improved understanding of human preferences."
-
-
-
+title: Relatively Rational:Learning Utilities and Rationalities Jointly from Pairwise Preferences
+type: paper-note
+paper type: journalArticle
+author: Yamagata, Taku; Oberkofler, Tobias; Kaufmann, Timo; Bengs, Viktor; Hüllermeier, Eyke; Santos-Rodríguez, Raúl
+abstract: Learning utilities from preference feedback has become increasingly important, particularly in fine-tuning language models such as ChatGPT. Traditional methods often assume equal rationality among labellers, leading to inaccurate utility estimates. We propose an algorithm that jointly estimates trainer rationality and item utilities to enhance utility learning and gain additional insights from feedback. Our approach focuses on settings where feedback is received from multiple trainers, using the Boltzmann-rational model to relate choices to latent utilities while accounting for varying levels of rationality. Given shared utilities, our method identifies rationality ratios among trainers from observed choices without extra calibration data or assumptions. We analyse the theoretical impact of assuming equal rationality on utility accuracy and empirically show superior performance in an action-advice setting, where agents construct policies using the learned utilities as rewards. By accurately modelling trainer rationality, we can enhance high-quality feedback collection, potentially leading to better-aligned models and an improved understanding of human preferences.
 citekey: yamagataRelativelyRationalLearning
-
-
 URI: zotero://select/library/items/IJJ8VSRR
-
-
-
-Projects: Deliverable; 
-
-
-
+Projects: Relative Risk;
 ---
 # Relatively Rational:Learning Utilities and Rationalities Jointly from Pairwise Preferences
 
@@ -45,7 +23,7 @@ Projects: Deliverable;
 %% end key contributions %%
 
 ## Relevance to Projects
-- [Deliverable](Deliverable.md)  
+- [Relative Risk](Relative Risk.md)  
 
 
 ## Annotations

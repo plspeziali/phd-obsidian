@@ -13,12 +13,8 @@ tags:
   - Science
   - Artificial
   - Intelligence
-  - Computer
-  - Science
   - Human-Computer
   - Interaction
-  - Computer
-  - Science
   - Robotics
 ---
 # LLM A*: Human in the Loop Large Language Models Enabled A* Search for Robotics
